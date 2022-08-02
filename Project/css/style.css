@@ -3,12 +3,12 @@
     margin: 0;
    
 }
-html{ width: 100%;}
 .macbookair{
     background-image: url("../images/home/macbookari.png");
     background-size: cover;
     height: 600px;
     background-repeat: no-repeat;
+    background-position-x: center;
    
 }
 .iphone13{
@@ -16,6 +16,89 @@ html{ width: 100%;}
     background-repeat: no-repeat;
     height: 600px;
     background-size: cover;
+    background-position-x: center;
+    background-position-y: center ;
     
 
 }
+
+.superCharged{
+    background-image: url("../images/home/Adv_3.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+     
+}
+.Adv_5{
+    display: flex;
+}
+.Adv_5a{
+    background-image: url("../images/home/Adv_4a.jpg");
+    width: 1262px;
+    height: 580px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+
+}
+
+.Adv_5b{
+    background-image: url("../images/home/Adv_4b.jpg");
+    width: 1262px;
+    height: 580px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+ 
+}
+
+.Adv_6{
+    display: flex;
+}
+.Adv_6a{
+    background-image: url("../images/home/Adv_5a.jpg");
+    width: 1262px;
+    height: 720px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 100%;
+   
+
+}
+
+.Adv_6b{
+    background-image: url("../images/home/Adv_5b.jpg");
+    width: 1262px;
+    height: 580px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 100%;
+   
+ 
+}
+
+.Adv_7{
+    display: flex;
+    justify-content: center;
+}
+.Adv_7a{
+    background-image: url("../images/home/Adv_6a.jpg");
+    width: 1262px;
+    height: 580px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 100%;
+
+}
+
+.Adv_7b{
+    background-image: url("../images/home/Adv_6b.jpg");
+    width: 1262px;
+    height: 580px;
+    /* background-size: 1262px 580px; */
+    background-repeat: no-repeat;
+     background-size: 100%;
+ 
+}
+
