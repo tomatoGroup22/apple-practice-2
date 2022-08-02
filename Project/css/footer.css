@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: #d2d2d7;
+    font-size: 15px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+body{
+    padding: 2% 20%;
+}
+
+ul{
+    list-style-type: none;
+}
+.footer-list div{
+    display: table-cell;
+    padding-top: 2%;
+    padding-inline: 37px;
+    padding-bottom: 2%;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover{
+    text-decoration: underline;
+    color: green;
+    font-weight: bolder;
+}
+
+
+.copyright {
+    padding: 0% 1% 0% 1%;
+}
+
+.united{
+    padding-left: 15%;
+}
+
+
+
+
